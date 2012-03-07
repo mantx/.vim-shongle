@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1805
+
+SearchFold is a good script to have around. You give it a search string to find and folds everything except for the lines where the string matches. By default is keeps some non-matching lines around so you can get an idea of where you are in the file and gives you the ability to expand the view for a particular match to get more context. After you are done looking around you can quit the script and keep the fold or go back to the file as it was (restoring any previous folds).
+
+Check  out this page for a screen shot.
+http://juan.axisym3.net/vim-plugins/#searchfold

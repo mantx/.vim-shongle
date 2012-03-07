@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2833
+
+Buffer list in statusline
+Use
+\ + num to change buf 
+,num to split buf
+\n \p Show next part list If too much buf.
+,bo close other bufs.
+
